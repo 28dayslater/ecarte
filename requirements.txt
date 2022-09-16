@@ -18,7 +18,7 @@ idna==2.7
 ipython-genutils==0.2.0
 jedi==0.12.1
 jwcrypto==0.5.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 parso==0.3.1
 passlib==1.7.1
