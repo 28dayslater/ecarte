@@ -17,7 +17,7 @@ httpie==0.9.9
 idna==2.7
 ipython-genutils==0.2.0
 jedi==0.12.1
-jwcrypto==0.5.0
+jwcrypto==1.4
 Mako==1.0.7
 MarkupSafe==1.0
 parso==0.3.1
